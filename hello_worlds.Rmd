@@ -1,0 +1,11 @@
+---
+title: "git_test"
+author: "Adiaratou"
+date: "2024-12-06"
+output: html_document
+---
+
+```{r}
+print("Hello world")
+```
+
